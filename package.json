@@ -1,0 +1,27 @@
+{
+    "name": "nova-mind",
+    "displayName": "NovaMind Theme",
+    "description": "Tema baseado nas cores Aira",
+    "version": "1.0.0",
+    "publisher": "gamerhsfdm",
+    "engines": {
+      "vscode": "^1.80.0"
+    },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/gamerhsfdm/nova-mind-theme"
+    },
+    "categories": ["Themes"],
+    "contributes": {
+      "themes": [
+        {
+          "label": "NovaMind",
+          "uiTheme": "vs-dark",
+          "path": "./themes/nova-mind-theme.json"
+        }
+      ]
+    }
+    
+  }
+  
+  
